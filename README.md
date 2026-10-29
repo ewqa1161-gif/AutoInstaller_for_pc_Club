@@ -4,7 +4,7 @@
 
 **Современный автоустановщик для обхода блокировок и установки полезного ПО в один клик.**
 
-[![Версия](https://img.shields.io/badge/version-v2.7-blue.svg?style=for-the-badge)](https://github.com/ewqa1161-gif/AutoInstaller_for_pc_Club/releases/latest)
+[![Версия](https://img.shields.io/badge/version-v2.9-blue.svg?style=for-the-badge)](https://github.com/ewqa1161-gif/AutoInstaller_for_pc_Club/releases/latest)
 [![Платформа](https://img.shields.io/badge/platform-Windows-0078D6.svg?style=for-the-badge&logo=windows)](https://github.com/ewqa1161-gif/AutoInstaller_for_pc_Club)
 [![Статус](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)]()
 
